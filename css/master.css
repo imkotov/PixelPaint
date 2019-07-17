@@ -6,7 +6,6 @@
 div.arena {
   width: 800px;
   height: 800px;
-  border: 1px solid #212121;
   position: relative;
 }
 div.info {
@@ -24,7 +23,6 @@ div.block {
 div.palette {
   width: 800px;
   background-color: #212121;
-  border: 1px solid #212121;
 }
 div.palett {
   padding: 7px;

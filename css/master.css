@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div.arena {
+  width: 800px;
+  height: 800px;
+  border: 1px solid #212121;
+  position: relative;
+}
+div.info {
+  width: 800px;
+  margin: auto;
+  position: relative;
+  margin-top: 10px;
+}
+div.block {
+  width: 10px;
+  height: 10px;
+  background-color: #212121;
+  position: absolute;
+}
+div.palette {
+  width: 800px;
+  background-color: #212121;
+  border: 1px solid #212121;
+}
+div.palett {
+  padding: 7px;
+}
+div.color {
+  width: 25px;
+  height: 25px;
+  background-color: #ededed;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid #ededed;
+  vertical-align: middle;
+  padding: 4px;
+}
+input.jscolor {
+  height: 30px;
+  width: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+}
+button#makescreenshot {
+  border: none;
+  background-color: whitesmoke;
+  color: #212121;
+  height: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
